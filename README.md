@@ -150,5 +150,41 @@ Frontend runs on:
    http://localhost:3000
 ```
 
+## Usage
+
+### 1. Start the Backend
+From the `backend` directory:
+```bash
+mvn spring-boot:run
+```
+- By default, runs on http://localhost:8085`
+
+### Using Eclipse IDE
+
+ 1.Open the project in Eclipse
+
+ 2.Right-click on
+```
+PersonalFinanceManagerApplication.java
+```
+ 3. Click:
+   **Run As → Spring Boot App**
+
+ Backend will start on:
+ ```Code
+     http://localhost:8085
+ ```
+
+### 2. Start the Frontend
+
+Open a new terminal in the `frontend` directory:
+```bash
+npm start
+```
+- By default, runs on `http://localhost:3000`
+
+  ### 3. Access the Application
+  Open your browser at `http://localhost:3000`. You can sign up for a new account or log in if  you already have one.
+  
 
         
