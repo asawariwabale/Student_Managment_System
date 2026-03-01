@@ -36,7 +36,7 @@ This project demonstrates full-stack development skills including REST API creat
       - Add marks for students
       - Update marks
       - Calculate total and average marks
-
+-
     - **User Profile**
       - View account details
       - Manage personal information
