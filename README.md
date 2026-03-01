@@ -26,12 +26,6 @@ This project demonstrates full-stack development skills including REST API creat
       - View all students
       - Search students by name or ID
 
-    - **Course Management**
-      - Create courses
-      - Assign students to courses
-      - Update or delete courses
-      - View enrolled students
-
     - **Marks Management**
       - Add marks for students
       - Update marks
