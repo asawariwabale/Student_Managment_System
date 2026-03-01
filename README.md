@@ -186,5 +186,27 @@ npm start
   ### 3. Access the Application
   Open your browser at `http://localhost:3000`. You can sign up for a new account or log in if  you already have one.
   
+## Screenshots
 
+**Home page**:
+
+<img width="1904" height="1024" alt="Screenshot 2026-03-01 152758" src="https://github.com/user-attachments/assets/1d6c4901-4931-4c86-872e-d90f15c238a9" />
         
+---
+
+**Contact page**:
+
+<img width="1915" height="977" alt="Screenshot 2026-03-01 152852" src="https://github.com/user-attachments/assets/cbfc520b-bad0-4259-975e-b6abe403a970" />
+
+---
+**Login page**:
+
+<img width="1917" height="607" alt="image" src="https://github.com/user-attachments/assets/bd95bc9f-7f9a-4200-b698-eeda6f722826" />
+
+---
+**Dashborad page**:
+
+<img width="1919" height="695" alt="Screenshot 2026-03-01 153054" src="https://github.com/user-attachments/assets/1bc8cafb-c1be-482b-adf9-f6cbfb34e42c" />
+
+---
+
