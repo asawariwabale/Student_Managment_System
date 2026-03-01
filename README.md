@@ -44,7 +44,8 @@ This project demonstrates full-stack development skills including REST API creat
       - Performance Summary
 
     - **Protected Endpoints**
-        All backend APIs are secured using JWT authentication. Each user can only access authorized data.
+
+      All backend APIs are secured using JWT authentication. Each user can only access authorized data.
 
     - **Responsive UI**
        - Built with React.js + Bootstrap
