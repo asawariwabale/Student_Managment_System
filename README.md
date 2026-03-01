@@ -17,7 +17,7 @@ This project demonstrates full-stack development skills including REST API creat
     ## Features
 
    - **User Authentication**
-      Register and log in with JWT-based authentication, providing secure access to the system.
+         Register and log in with JWT-based authentication, providing secure access to the system.
 
     - **Student Management**
       - Add new students
